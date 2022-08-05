@@ -1,6 +1,7 @@
 """
 The PyTorch NN Model allowing to compute sum of two input numbers.
-
+   Note: of course it's enough to have a single neuron for that, 
+         but we need more realistic NN example.
 """
 
 import torch.nn as nn
